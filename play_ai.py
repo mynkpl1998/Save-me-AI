@@ -39,7 +39,7 @@ game = wrapped_game.save_me()
 
 num_games, num_wins = 0,0
 
-for e in range(100):
+for e in range(1000):
 	game.reset()
 
 	# get first state
