@@ -6,7 +6,7 @@ Here is the demo computer playing the game
 ![image](https://raw.githubusercontent.com/mynkpl1998/Save-me-AI/master/data/ai_plays.gif)
 
 # Overview
-This project contains three major files, AI.py file creates the model and train the model to play the game, play_ai.py uses the saved pre-tained model to play the game. If you like play the game by your own you can play using game.py script.
+This project contains three major files, AI.py file creates the model and train the model to play the game, play_ai.py uses the saved pre-trained model to play the game. If you like play the game by your own you can play using game.py script.
 
 # Installation Dependencies:
 
